@@ -1,0 +1,13 @@
+h1 {
+    font-family: cursive;
+    font-size: 1.75em;
+    font-weight: bold;
+    text-align: center;
+    font-variant: small-caps;
+    color: rgb(75, 0, 100);
+}
+
+p {
+    line-height: 2em;
+    text-align: left;
+}
